@@ -37,6 +37,9 @@ Through data analysis and interactive dashboard design, I explored how compensat
 - Maximum Salary: Approximately $239,980
 These KPIs provide a quick overview of the workforce and its overall compensation structure.
 
+<img width="700" height="400" alt="Dash pro 1 pbi" src="https://github.com/user-attachments/assets/1982d614-88b9-4655-a7ec-1a31a6218ce3" />
+
+
 ## Key Insights
 ### 1. Compensation by Industry
 The analysis revealed differences in total compensation across five industries:
